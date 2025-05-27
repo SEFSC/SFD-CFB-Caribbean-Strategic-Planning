@@ -8,14 +8,7 @@ The project, “Developing a Strategic Plan for Fisheries Stock Assessment in th
 [SEFSC Workshop (May 2022)](./SEFSC Workshop (May 2022).html).
 
 ## Regional Workshop (May 2023)
-
-During the workshop, participants identified 8 short-term, actionable projects nested under 4 five-year breakthrough goals.
-
-**Five-Year Breakthrough Goals**
-1. Expand the toolbox to inform fisheries management
-2. Reduce gaps in datasets used to inform management
-3. Improve communication of knowledge to better engage stakeholders in fisheries management process
-4. Establish funding governance structures that are equitable for fishers, contractors, agencies, and islands and allow for the collection of necessary data gaps to inform fisheries management
+[Regional Workshop (May 2023)](./Regional Workshop (May 2023).html).
 
 * * *
 
