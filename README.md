@@ -12,9 +12,9 @@ The project, “Developing a Strategic Plan for Fisheries Stock Assessment in th
 ## Regional Workshop (May 2023)
 [Regional Workshop (May 2023)](./Regional Workshop (May 2023).html)
 
-<center>
-  ![image](https://github.com/user-attachments/assets/0751c12c-5061-4134-afb6-29f0c16cc38e)
-</center>
+<p align="center">
+  <img width="300" height="300" src="[https://picsum.photos/460/300](https://github.com/user-attachments/assets/0751c12c-5061-4134-afb6-29f0c16cc38e)/300/300">
+</p>
 
 * * *
 
