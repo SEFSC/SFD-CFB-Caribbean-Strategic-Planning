@@ -1,8 +1,10 @@
 ---
 layout: default
 title: SEFSC Workshop (May 2022)
-description: During the workshop, participants identified 39 short-term, actionable projects nested under 7 long-term goals.
+description: During the workshop, participants identified 39 short-term, actionable projects, aka local projects (LPs), nested under 7 long-term goals.
 ---
+
+<object data="../assets/path/to/document.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 **First-Level Goals**
 
@@ -13,5 +15,7 @@ description: During the workshop, participants identified 39 short-term, actiona
 5. Increase external collaboration and communication efforts
 6. Incorporate Ecosystem-Based Fisheries Management (EBFM) and socioeconomic impacts
 7. Address funding insecurities
+
+[Summary of Efforts](SummaryOfEfforts_SEFSC.pdf) for LPs
 
 [home](./)
