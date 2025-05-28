@@ -1,4 +1,5 @@
-<h1 align="center";">Caribbean Strategic Planning Project</h1>
+<h1 align="center";">
+  Caribbean Strategic Planning Project</h1>
 </p>
 
 <p align="center">
