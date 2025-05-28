@@ -14,4 +14,4 @@ description: During the workshop, participants identified 39 short-term, actiona
 6. Incorporate Ecosystem-Based Fisheries Management (EBFM) and socioeconomic impacts
 7. Address funding insecurities
 
-[back](./)
+[home](./)
