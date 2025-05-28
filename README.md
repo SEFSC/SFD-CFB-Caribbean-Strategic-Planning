@@ -1,4 +1,6 @@
-![Logo] (https://github.com/SEFSC/SFD-CFB-Caribbean-Strategic-Planning/blob/main/.github/workflows/assets/Logo.png)
+![image](https://github.com/user-attachments/assets/0751c12c-5061-4134-afb6-29f0c16cc38e)
+
+# Caribbean Strategic Planning Project
 
 ## Project Summary
 
