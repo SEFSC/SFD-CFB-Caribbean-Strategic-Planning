@@ -1,6 +1,6 @@
 <h1 align="center";">
-  Caribbean Strategic Planning Project</h1>
-</p>
+  Caribbean Strategic Planning Project
+</h1>
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/2b9b2450-b418-43c2-88b3-161b7b8949d8" alt="CSP Logo" width="180" height="180">
