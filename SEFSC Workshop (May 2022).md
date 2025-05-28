@@ -4,8 +4,6 @@ title: SEFSC Workshop (May 2022)
 description: During the workshop, participants identified 39 short-term, actionable projects, aka local projects (LPs), nested under 7 long-term goals.
 ---
 
-<object data=".github/workflows/assets/Factsheet_SEFSCPlan_English.pdf" width="850" height="1100" type='application/pdf'></object>
-
 **First-Level Goals**
 
 1. Improve data collection efforts
@@ -16,6 +14,6 @@ description: During the workshop, participants identified 39 short-term, actiona
 6. Incorporate Ecosystem-Based Fisheries Management (EBFM) and socioeconomic impacts
 7. Address funding insecurities
 
-[Summary of Efforts](SummaryOfEfforts_SEFSC.pdf) for LPs
+<a href="[username.github.io/folder/document.pdf](https://github.com/SEFSC/SFD-CFB-Caribbean-Strategic-Planning/blob/main/.github/workflows/assets/SummaryOfEfforts_SEFSC.pdf)" target="_blank">Summary of Efforts.</a>
 
 [home](./)
