@@ -1,5 +1,5 @@
-<h1 align="center";">
-  Caribbean Strategic Planning Project
+<h1 align="center">
+Caribbean Strategic Planning Project
 </h1>
 
 <p align="center">
