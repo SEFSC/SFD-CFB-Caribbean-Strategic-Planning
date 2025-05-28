@@ -12,11 +12,9 @@ Regionally-specific and spatially extensive data deficiencies in U.S. Caribbean 
 
 The project, “Developing a Strategic Plan for Fisheries Stock Assessment in the U.S. Caribbean Region,” was established by the Southeast Fisheries Science Center (SEFSC) to perform collaborative exercises that will identify data collection strategies to provide the necessary inputs for the stock assessment process. The first step in this multi-year project was to produce a strategic plan for the SEFSC that prioritizes and coordinates data collection efforts including education and outreach and socioeconomic impacts. The principal investigators hosted a Hoshin Kanri strategic planning workshop (May 2022) with key SEFSC personnel involved in U.S. Caribbean data efforts in which the participants identified regionally-specific long- and short-term goals and produced a roadmap for accomplishing those goals in working groups. The second step was to produce a regional strategic plan that prioritizes and coordinates data collection efforts of key stakeholders and partner organizations. The PIs hosted another Hoshin Kanri workshop (May 2023) with key regional partners involved in U.S. Caribbean data efforts in which the participants identified additional annual objectives, projects, and goals to be accomplished in working groups.
 
-## SEFSC Workshop (May 2022)
-[SEFSC Workshop (May 2022)](./SEFSC Workshop (May 2022).html)
+## [SEFSC Workshop (May 2022)](./SEFSC Workshop (May 2022).html)
 
-## Regional Workshop (May 2023)
-[Regional Workshop (May 2023)](./Regional Workshop (May 2023).html)
+## [Regional Workshop (May 2023)](./Regional Workshop (May 2023).html)
 
 * * *
 
