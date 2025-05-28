@@ -1,10 +1,6 @@
-# <p align="center">
 # Caribbean Strategic Planning Project
-# </p>
 
-<p align="center">
-<img width="300" height="300" src="[https://picsum.photos/300/300](https://github.com/user-attachments/assets/0751c12c-5061-4134-afb6-29f0c16cc38e)/300/300">
-</p>
+<img src="https://github.com/user-attachments/assets/2b9b2450-b418-43c2-88b3-161b7b8949d8" alt="CSP Logo" width="150" height="150">
 
 ## Project Summary
 
