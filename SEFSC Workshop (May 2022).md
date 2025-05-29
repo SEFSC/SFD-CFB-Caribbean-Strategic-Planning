@@ -1,8 +1,14 @@
 ---
 layout: default
 title: SEFSC Workshop (May 2022)
-description: During the workshop, participants identified 39 short-term, actionable projects, aka local projects (LPs), nested under 7 long-term goals.
+description: During the workshop, participants identified 39 short-term, actionable projects, nested under 7 long-term goals.
 ---
+
+**SEFSC Plan Factsheets**
+
+​[English](assets/Factsheet_SEFSCPlan_English.pdf){:target="_blank"} | ​[Spanish](assets/Factsheet_SEFSCPlan_Spanish.pdf){:target="_blank"}
+
+The virtual workshop, which occurred May 16-18, 2022, established long and short-term goals and prioritized 39 actionable projects to be completed in working groups. These projects, referred to as local projects (LPs) relate to the focus strategies of: establishment or improvement of data collection programs, standardization of analytical data provision, operationalizing data automation, enhancement of internal and external communications, and addressing funding insecurities and EBFM needs.
 
 **First-Level Goals**
 
@@ -13,14 +19,6 @@ description: During the workshop, participants identified 39 short-term, actiona
 5. Increase external collaboration and communication efforts
 6. Incorporate Ecosystem-Based Fisheries Management (EBFM) and socioeconomic impacts
 7. Address funding insecurities
-
-<a href="SEFSC/SFD-CFB-Caribbean-Strategic-Planning/blob/032761781b10d603e97020252d1187050e1a42b6/.github/workflows/assets/SummaryOfEfforts_SEFSC.pdf" target="_blank">Summary of Efforts</a>
-
-**SEFSC Plan Factsheets**
-
-[English](./SEFSCPlan_English.html)
-
-[Spanish](./SEFSCPlan_Spanish.html)
 
 * * *
 
