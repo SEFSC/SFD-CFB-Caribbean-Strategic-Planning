@@ -8,7 +8,7 @@ The in-person workshop, which occurred May 22-25, 2023 in Carolina, Puerto Rico,
 
 This project was a large undertaking and our successes would not have been possible without the collaboration of our regional partners including Puerto Rico DNER, US Virgin Islands DFW, CFMC, SSC members, university researchers, National Park Service, NOAA HQ, and SERO.
 
-A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fisheries-and-ecosystem-data-collection-caribbean-through-partnership) was published in 2024 that highlights our collaborative successes.
+A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fisheries-and-ecosystem-data-collection-caribbean-through-partnership){:target="_blank"} was published in 2024 that highlights our collaborative successes.
 
 **Regional Plan Factsheets**
 
