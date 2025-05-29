@@ -11,4 +11,6 @@ description: During the workshop, participants identified 8 short-term, actionab
 3. Improve communication of knowledge to better engage stakeholders in fisheries management process
 4. Establish funding governance structures that are equitable for fishers, contractors, agencies, and islands and allow for the collection of necessary data gaps to inform fisheries management
 
+![image](https://github.com/user-attachments/assets/04bbfcf4-76d6-490b-a260-e893428b14cd)
+
 [home](./)
