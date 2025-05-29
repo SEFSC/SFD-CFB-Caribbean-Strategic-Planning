@@ -17,7 +17,7 @@ The second in-person workshop, which occurred May 22-25, 2023 in Carolina, Puert
 
 ### Regional Plan Factsheets
 
-[English](assets/Factsheet_RegionalPlan_English.pdf){:target="_blank"}      [Spanish](assets/Factsheet_RegionalPlan_Spanish.pdf){:target="_blank"} 
+[English](assets/Factsheet_RegionalPlan_English.pdf){:target="_blank"} | [Spanish](assets/Factsheet_RegionalPlan_Spanish.pdf){:target="_blank"} 
 
 ### Regional Projests
 
@@ -27,8 +27,10 @@ The second in-person workshop, which occurred May 22-25, 2023 in Carolina, Puert
 
 **Deliverables**
 
-> [Communications Chart](assets/Caribbean_Communications_Chart_2024.pdf){:target="_blank"} 
-> [Appendix](assets/CSP_CommunicationsAppendix_2024.pdf){:target="_blank"} 
+> [Communications Chart](assets/Caribbean_Communications_Chart_2024.pdf){:target="_blank"}
+> 
+> [Appendix](assets/CSP_CommunicationsAppendix_2024.pdf){:target="_blank"}
+> 
 > [NOAA Internal Communications](assets/CSP_CommunicationsNOAAInternal.pdf_2024){:target="_blank"} 
 
 #### Funding Governance
@@ -51,7 +53,8 @@ The second in-person workshop, which occurred May 22-25, 2023 in Carolina, Puert
 
 **Deliverables**
 
-> [FD Recommendations](assets/CSP_FD_Recommendations_2025.pdf){:target="_blank"} 
+> [FD Recommendations](assets/CSP_FD_Recommendations_2025.pdf){:target="_blank"}
+> 
 > [FD Data Inventory](https://docs.google.com/spreadsheets/d/1ZwjcioiZiMqN0lFWoqVVwzZWmNhbQlJ1WWbwds-e5f8/edit?gid=94681785#gid=94681785) (request view access to download)
 
 #### Fishery Independent Data
