@@ -13,8 +13,6 @@ The second in-person workshop, which occurred May 22-25, 2023 in Carolina, Puert
 3. Improve communication of knowledge to better engage stakeholders in fisheries management process
 4. Establish funding governance structures that are equitable for fishers, contractors, agencies, and islands and allow for the collection of necessary data gaps to inform fisheries management
 
-[View PDF](assets/Factsheet_RegionalPlan_English (3).pdf){:target="_blank"}
-
 ### Regional Plan Factsheets
 
 [English](assets/Factsheet_RegionalPlan_English.pdf){:target="_blank"} | [Spanish](assets/Factsheet_RegionalPlan_Spanish.pdf){:target="_blank"} 
