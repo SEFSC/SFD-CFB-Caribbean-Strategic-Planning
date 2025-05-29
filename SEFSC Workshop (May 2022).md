@@ -16,4 +16,11 @@ description: During the workshop, participants identified 39 short-term, actiona
 
 <a href="SEFSC/SFD-CFB-Caribbean-Strategic-Planning/blob/032761781b10d603e97020252d1187050e1a42b6/.github/workflows/assets/SummaryOfEfforts_SEFSC.pdf" target="_blank">Summary of Efforts</a>
 
+**SEFSC Plan Factsheets**
+
+[English](./SEFSCPlan_English.html)
+
+[Spanish](./SEFSCPlan_Spanish.html)
+
+
 [home](./)
