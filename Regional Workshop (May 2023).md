@@ -12,5 +12,6 @@ description: During the workshop, participants identified 8 short-term, actionab
 4. Establish funding governance structures that are equitable for fishers, contractors, agencies, and islands and allow for the collection of necessary data gaps to inform fisheries management
 
 [Regional Plan Factsheet (English)](./RegionalPlan_English.html)
+[Regional Plan Factsheet (Spanish)](./RegionalPlan_Spanish.html)
 
 [home](./)
