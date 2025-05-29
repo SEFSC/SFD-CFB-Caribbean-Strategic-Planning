@@ -17,4 +17,6 @@ description: During the workshop, participants identified 8 short-term, actionab
 
 [Spanish](./RegionalPlan_Spanish.html)
 
+* * *
+
 [home](./)
