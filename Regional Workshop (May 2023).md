@@ -1,10 +1,22 @@
 ---
 layout: default
 title: Regional Workshop (May 2023)
-description: During the workshop, participants identified 8 short-term, actionable projects nested under 4 five-year breakthrough goals.
+description: During the workshop, participants identified 8 short-term, actionable projects nested under 4 five-year breakthrough goals
 ---
 
+<p align="center">
+Regional Plan Factsheets
+</p>
+
+<p align="center">
+[English](assets/Factsheet_RegionalPlan_English.pdf){:target="_blank"} | [Spanish](assets/Factsheet_RegionalPlan_Spanish.pdf){:target="_blank"}
+</p>
+
 The second in-person workshop, which occurred May 22-25, 2023 in Carolina, Puerto Rico, identified five-year breakthrough goals and annual objectives. Projects identified and prioritized in this workshop emphasized collaborative efforts of data collection that align with regional needs and education and outreach priorities for the local fishing communities. These projects, referred to as regional projects, are being addressed in working groups.
+
+This project was a large undertaking and our successes would not have been possible without the collaboration of our regional partners including Puerto Rico DNER, US Virgin Islands DFW, CFMC, SSC members, university researchers, National Park Service, NOAA HQ, and SERO.
+
+A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fisheries-and-ecosystem-data-collection-caribbean-through-partnership) was published in 2024 that highlights our collaborative successes.
 
 ## Five-Year Breakthrough Goals
 
@@ -12,10 +24,6 @@ The second in-person workshop, which occurred May 22-25, 2023 in Carolina, Puert
 2. Reduce gaps in datasets used to inform management
 3. Improve communication of knowledge to better engage stakeholders in fisheries management process
 4. Establish funding governance structures that are equitable for fishers, contractors, agencies, and islands and allow for the collection of necessary data gaps to inform fisheries management
-
-### Regional Plan Factsheets
-
-[English](assets/Factsheet_RegionalPlan_English.pdf){:target="_blank"} | [Spanish](assets/Factsheet_RegionalPlan_Spanish.pdf){:target="_blank"} 
 
 ### Regional Projests
 
