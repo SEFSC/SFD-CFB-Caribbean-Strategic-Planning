@@ -4,9 +4,11 @@ title: SEFSC Workshop (May 2022)
 description: During the workshop, participants identified 39 short-term, actionable projects, nested under 7 long-term goals.
 ---
 
-**SEFSC Plan Factsheets**
+<center><b>
+  SEFSC Plan Factsheets
+</b></center>
 
-​[English](assets/Factsheet_SEFSCPlan_English.pdf){:target="_blank"} | ​[Spanish](assets/Factsheet_SEFSCPlan_Spanish.pdf){:target="_blank"}
+<center>​[English](assets/Factsheet_SEFSCPlan_English.pdf){:target="_blank"} | ​[Spanish](assets/Factsheet_SEFSCPlan_Spanish.pdf){:target="_blank"}</center>
 
 The virtual workshop, which occurred May 16-18, 2022, established long and short-term goals and prioritized 39 actionable projects to be completed in working groups. These projects, referred to as local projects (LPs) relate to the focus strategies of: establishment or improvement of data collection programs, standardization of analytical data provision, operationalizing data automation, enhancement of internal and external communications, and addressing funding insecurities and EBFM needs.
 
