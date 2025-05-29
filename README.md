@@ -16,6 +16,8 @@ The project, “Developing a Strategic Plan for Fisheries Stock Assessment in th
 
 ## [Regional Workshop (May 2023)](./Regional Workshop (May 2023).html)
 
+[View PDF](assets/Factsheet_RegionalPlan_English (3).pdf)
+
 * * *
 
 ## Disclaimer
