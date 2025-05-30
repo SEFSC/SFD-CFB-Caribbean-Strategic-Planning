@@ -9,7 +9,7 @@ description: During the workshop, participants identified 39 short-term, actiona
 </b></center>
 
 <div style="text-align: center;">
-  <a href="/assets/Factsheet_SEFSCPlan_English.pdf" target="_blank">English</a> | <a href="/assets/Factsheet_SEFSCPlan_Spanish.pdf" target="_blank">Spanish</a>
+  <a href="/SFD-CFB-Caribbean-Strategic-Planning/assets/Factsheet_SEFSCPlan_English.pdf" target="_blank">English</a> | <a href="/SFD-CFB-Caribbean-Strategic-Planning/assets/Factsheet_SEFSCPlan_Spanish.pdf" target="_blank">Spanish</a>
 </div>
 
 The virtual workshop, which occurred May 16-18, 2022, established long and short-term goals and prioritized 39 actionable projects to be completed in working groups. These projects, referred to as local projects (LPs) relate to the focus strategies of: establishment or improvement of data collection programs, standardization of analytical data provision, operationalizing data automation, enhancement of internal and external communications, and addressing funding insecurities and EBFM needs.
