@@ -14,11 +14,15 @@ description: During the workshop, participants identified 8 short-term, actionab
 
 The in-person workshop, which occurred May 22-25, 2023 in Carolina, Puerto Rico, identified five-year breakthrough goals and annual objectives. Projects identified and prioritized in this workshop emphasized collaborative efforts of data collection that align with regional needs and education and outreach priorities for the local fishing communities. These projects, referred to as regional projects, are being addressed in working groups.
 
-This project was a large undertaking and our successes would not have been possible without the collaboration of our regional partners including [Puerto Rico Department of Natural and Environmental Resources](https://www.ecos.org/members/puerto-rico/), [US Virgin Islands Division of Fish and Wildlife](https://dpnr.vi.gov/fish-and-wildlife/), [Caribbean Fishery Management Council](https://www.caribbeanfmc.com/), [Scientific and Statistical Committee](https://www.caribbeanfmc.com/about-caribbean-fishery-management-council/scientific-and-statistical-committee), university researchers, [National Park Service](https://www.nps.gov/subjects/oceans/caribbean.htm), [Cooperative Institute for Marine and Atmospheric Studies](https://cimas.earth.miami.edu/), [NOAA HQ](https://www.fisheries.noaa.gov/about/office-habitat-conservation), and [Southeast Regional Office](https://www.fisheries.noaa.gov/southeast/sustainable-fisheries/sustainable-fisheries-caribbean).
+This project was a large undertaking and our successes would not have been possible without the collaboration of our regional partners including Puerto Rico Department of Natural and Environmental Resources [(DNER)](https://www.ecos.org/members/puerto-rico/), US Virgin Islands Division of Fish and Wildlife [(DFW)](https://dpnr.vi.gov/fish-and-wildlife/), Caribbean Fishery Management Council [(CFMC)](https://www.caribbeanfmc.com/), Scientific and Statistical Committee [(SSC)](https://www.caribbeanfmc.com/about-caribbean-fishery-management-council/scientific-and-statistical-committee), university researchers, National Park Service [(NPS)](https://www.nps.gov/subjects/oceans/caribbean.htm), Cooperative Institute for Marine and Atmospheric Studies [(CIMAS)](https://cimas.earth.miami.edu/), NOAA Headquarters [(NOAA)](https://www.fisheries.noaa.gov/about/office-habitat-conservation), and Southeast Regional Office [(SERO)](https://www.fisheries.noaa.gov/southeast/sustainable-fisheries/sustainable-fisheries-caribbean).
 
 A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fisheries-and-ecosystem-data-collection-caribbean-through-partnership){:target="_blank"} was published in 2024 that highlights our collaborative successes.
 
+<br>
+
 * * *
+
+<br>
 
 **Five-Year Breakthrough Goals**
 
@@ -27,51 +31,11 @@ A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fi
 3. Improve communication of knowledge to better engage stakeholders in fisheries management process
 4. Establish funding governance structures that are equitable for fishers, contractors, agencies, and islands and allow for the collection of necessary data gaps to inform fisheries management
 
-* * *
-
-**Team**
-
-Participant | Affilitation | Role
---- | --- | ---
-Robert Allman | Southeast Fisheries Science Center | `Observer Participant`
-Nicole Angeli | US Virgin Islands Division of Fish and Wildlife | `Active Participant`
-Larry Beerkircher | Southeast Fisheries Science Center | `Active Participant`
-Sarah Beggerly | Southeast Fisheries Science Center | `Observer Participant`
-Shannon-Cass-Calay | Southeast Fisheries Science Center | `PI`, `Active Participant`
-Juan J. Cruz-Mota | University of Puerto Rico | `Active Participant`
-Michelle Duval | Mellivora Consulting | `Observer Participant`
-Rachel Banton | Cooperative Institute for Marine and Atmospheric Studies | `Facilitator`
-Mike Feeley |	National Park Service | `Active Participant`
-Graciela Garcia-Moliner |	Caribbean Fishery Management Council | `Active Participant`
-Todd Gedamke |	MER Consultants | `Active Participant`
-Jay Grove |	Southeast Fisheries Science Center | `Active Participant`
-Sennai Habtes |	US Virgin Islands Division of Fish and Wildlife | `Active Participant`
-Christian Jones | Southeast Fisheries Science Center | `PI`, `Observer Participant`
-Mandy Karnauskas |	Southeast Fisheries Science Center | `Active Participant`
-Stephanie Martinez |	Southeast Fisheries Science Center | `Active Participant`
-Daniel Matos-Caraballo |	Puerto Rico Department of Natural and Environmental Resources | `Active Participant`
-Vivian Matter |	Southeast Fisheries Science Center | `PI`, `Facilitator`
-Kevin McCarthy |	Southeast Fisheries Science Center | `PI`, `Active Participant`
-Joy Merino |	Southeast Fisheries Science Center | `Observer Participant`
-Maggie Motiani |	US Virgin Islands Division of Fish and Wildlife | `Observer Participant`
-Refik Orhun |	Southeast Fisheries Science Center | `Observer Participant`
-Kate Overly |	Southeast Fisheries Science Center | `PI`, `Active Participant`
-Noemi Peña |	Puerto Rico Department of Natural and Environmental Resources | `Active Participant`
-Tauna Rankin |	National Oceanic and Atmospheric Administration | `Observer Participant`
-Jesús Rivera |	University of South Carolina-Aiken | `Observer Participant`
-Liajay Rivera-Garcia |	Caribbean Fishery Management Council | `Observer Participant`
-Grisel Rodriguez Ferrer |	Puerto Rico Department of Natural and Environmental Resources | `Active Participant`
-Wilson Santiago |	Caribbean Fishery Management Council | `Observer Participant`
-Tarsila Seara |	University of New Haven | `Active Participant`
-Michelle Sharer-Umpierre |	University of Puerto Rico | `Active Participant`
-Steven Smith |	Cooperative Institute for Marine and Atmospheric Studies | `PI`, `Active Participant`
-Tyler Smith |	University of the Virgin Islands | `Active Participant`
-Sarah Stephenson |	Southeast Regional Office | `Active Participant`
-Jenny Suter |	Pacific Islands Fisheries Science Center | `Facilitator`
-Stacey Williams |	Coastal Survey Solutions, LLC | `Observer Participant`
-Jennifer Au	| National Centers for Coastal Ocean Science | `Observer Participant`
+<br>
 
 * * *
+
+<br>
 
 **Regional Projests**
 
@@ -174,6 +138,54 @@ Jennifer Au	| National Centers for Coastal Ocean Science | `Observer Participant
 *Deliverables*
 
 > Project in progress. Check back for deliverables
+
+<br>
+
+* * *
+
+<br>
+
+**Team**
+
+Participant | Affilitation | Role
+--- | --- | ---
+Robert Allman | SEFSC | `Observer Participant`
+Nicole Angeli | DFW | `Active Participant`
+Larry Beerkircher | SEFSC | `Active Participant`
+Sarah Beggerly | SEFSC | `Observer Participant`
+Shannon-Cass-Calay | SEFSC | `PI`, `Active Participant`
+Juan J. Cruz-Mota | UPR | `Active Participant`
+Michelle Duval | Mellivora Consulting | `Observer Participant`
+Rachel Banton | CIMAS | `Facilitator`
+Mike Feeley |	NPS | `Active Participant`
+Graciela Garcia-Moliner |	CFMC | `Active Participant`
+Todd Gedamke |	MER Consultants | `Active Participant`
+Jay Grove |	SEFSC | `Active Participant`
+Sennai Habtes |	DFW | `Active Participant`
+Christian Jones | SEFSC | `PI`, `Observer Participant`
+Mandy Karnauskas |	SEFSC | `Active Participant`
+Stephanie Martinez |	SEFSC | `Active Participant`
+Daniel Matos-Caraballo |	DNER | `Active Participant`
+Vivian Matter |	SEFSC | `PI`, `Facilitator`
+Kevin McCarthy |	SEFSC | `PI`, `Active Participant`
+Joy Merino |	SEFSC | `Observer Participant`
+Maggie Motiani |	DFW | `Observer Participant`
+Refik Orhun |	SEFSC | `Observer Participant`
+Kate Overly |	SEFSC | `PI`, `Active Participant`
+Noemi Peña |	DNER | `Active Participant`
+Tauna Rankin |	NOAA | `Observer Participant`
+Jesús Rivera |	USC-A | `Observer Participant`
+Liajay Rivera-Garcia |	CFMC | `Observer Participant`
+Grisel Rodriguez Ferrer |	DNER | `Active Participant`
+Wilson Santiago |	CFMC | `Observer Participant`
+Tarsila Seara |	UNH | `Active Participant`
+Michelle Sharer-Umpierre |	UPR | `Active Participant`
+Steven Smith |	CIMAS | `PI`, `Active Participant`
+Tyler Smith |	UVI | `Active Participant`
+Sarah Stephenson |	SERO | `Active Participant`
+Jenny Suter |	PIFSC | `Facilitator`
+Stacey Williams |	Coastal Survey Solutions, LLC | `Observer Participant`
+Jennifer Au	| NCCOS | `Observer Participant`
 
 * * *
 
