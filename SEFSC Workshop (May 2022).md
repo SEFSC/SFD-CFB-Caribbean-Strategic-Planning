@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SEFSC Workshop (May 2022)
-description: During the workshop, participants identified 39 short-term, actionable projects, nested under 7 long-term goals.
+description: During the workshop, participants identified 39 short-term, actionable projects, nested under 7 long-term goals
 ---
 
 <center><b>
