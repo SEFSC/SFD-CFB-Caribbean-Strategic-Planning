@@ -14,9 +14,11 @@ description: During the workshop, participants identified 8 short-term, actionab
 
 The in-person workshop, which occurred May 22-25, 2023 in Carolina, Puerto Rico, identified five-year breakthrough goals and annual objectives. Projects identified and prioritized in this workshop emphasized collaborative efforts of data collection that align with regional needs and education and outreach priorities for the local fishing communities. These projects, referred to as regional projects, are being addressed in working groups.
 
-This project was a large undertaking and our successes would not have been possible without the collaboration of our regional partners including [Puerto Rico Department of Natural and Environmental Resources](https://www.ecos.org/members/puerto-rico/), [US Virgin Islands Division of Fish and Wildlife](https://dpnr.vi.gov/fish-and-wildlife/), [Caribbean Fishery Management Council](https://www.caribbeanfmc.com/), [Scientific and Statistical Committee](https://www.caribbeanfmc.com/about-caribbean-fishery-management-council/scientific-and-statistical-committee), university researchers, [National Park Service](https://www.nps.gov/subjects/oceans/caribbean.htm), [NOAA HQ](https://www.fisheries.noaa.gov/about/office-habitat-conservation), and [Southeast Regional Office](https://www.fisheries.noaa.gov/southeast/sustainable-fisheries/sustainable-fisheries-caribbean).
+This project was a large undertaking and our successes would not have been possible without the collaboration of our regional partners including [Puerto Rico Department of Natural and Environmental Resources](https://www.ecos.org/members/puerto-rico/), [US Virgin Islands Division of Fish and Wildlife](https://dpnr.vi.gov/fish-and-wildlife/), [Caribbean Fishery Management Council](https://www.caribbeanfmc.com/), [Scientific and Statistical Committee](https://www.caribbeanfmc.com/about-caribbean-fishery-management-council/scientific-and-statistical-committee), university researchers, [National Park Service](https://www.nps.gov/subjects/oceans/caribbean.htm), [Cooperative Institute for Marine and Atmospheric Studies](https://cimas.earth.miami.edu/), [NOAA HQ](https://www.fisheries.noaa.gov/about/office-habitat-conservation), and [Southeast Regional Office](https://www.fisheries.noaa.gov/southeast/sustainable-fisheries/sustainable-fisheries-caribbean).
 
 A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fisheries-and-ecosystem-data-collection-caribbean-through-partnership){:target="_blank"} was published in 2024 that highlights our collaborative successes.
+
+* * *
 
 **Five-Year Breakthrough Goals**
 
@@ -24,6 +26,50 @@ A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fi
 2. Reduce gaps in datasets used to inform management
 3. Improve communication of knowledge to better engage stakeholders in fisheries management process
 4. Establish funding governance structures that are equitable for fishers, contractors, agencies, and islands and allow for the collection of necessary data gaps to inform fisheries management
+
+* * *
+
+**Team**
+
+Participant | Affilitation | Role
+--- | --- | ---
+Robert Allman | Southeast Fisheries Science Center | `Observer Participant`
+Nicole Angeli | US Virgin Islands Division of Fish and Wildlife | `Active Participant`
+Larry Beerkircher | Southeast Fisheries Science Center | `Active Participant`
+Sarah Beggerly | Southeast Fisheries Science Center | `Observer Participant`
+Shannon-Cass-Calay | Southeast Fisheries Science Center | `PI`, `Active Participant`
+Juan J. Cruz-Mota | University of Puerto Rico | `Active Participant`
+Michelle Duval | Mellivora Consulting | `Observer Participant`
+Rachel Banton | Cooperative Institute for Marine and Atmospheric Studies | `Facilitator`
+Mike Feeley |	National Park Service | `Active Participant`
+Graciela Garcia-Moliner |	Caribbean Fishery Management Council | `Active Participant`
+Todd Gedamke |	MER Consultants | `Active Participant`
+Jay Grove |	Southeast Fisheries Science Center | `Active Participant`
+Sennai Habtes |	US Virgin Islands Division of Fish and Wildlife | `Active Participant`
+Christian Jones | Southeast Fisheries Science Center | `PI`, `Observer Participant`
+Mandy Karnauskas |	Southeast Fisheries Science Center | `Active Participant`
+Stephanie Martinez |	Southeast Fisheries Science Center | `Active Participant`
+Daniel Matos-Caraballo |	Puerto Rico Department of Natural and Environmental Resources | `Active Participant`
+Vivian Matter |	Southeast Fisheries Science Center | `PI`, `Facilitator`
+Kevin McCarthy |	Southeast Fisheries Science Center | `PI`, `Active Participant`
+Joy Merino |	Southeast Fisheries Science Center | `Observer Participant`
+Maggie Motiani |	US Virgin Islands Division of Fish and Wildlife | `Observer Participant`
+Refik Orhun |	Southeast Fisheries Science Center | `Observer Participant`
+Kate Overly |	Southeast Fisheries Science Center | `PI`, `Active Participant`
+Noemi Peña |	Puerto Rico Department of Natural and Environmental Resources | `Active Participant`
+Tauna Rankin |	National Oceanic and Atmospheric Administration | `Observer Participant`
+Jesús Rivera |	University of South Carolina-Aiken | `Observer Participant`
+Liajay Rivera-Garcia |	Caribbean Fishery Management Council | `Observer Participant`
+Grisel Rodriguez Ferrer |	Puerto Rico Department of Natural and Environmental Resources | `Active Participant`
+Wilson Santiago |	Caribbean Fishery Management Council | `Observer Participant`
+Tarsila Seara |	University of New Haven | `Active Participant`
+Michelle Sharer-Umpierre |	University of Puerto Rico | `Active Participant`
+Steven Smith |	Cooperative Institute for Marine and Atmospheric Studies | `PI`, `Active Participant`
+Tyler Smith |	University of the Virgin Islands | `Active Participant`
+Sarah Stephenson |	Southeast Regional Office | `Active Participant`
+Jenny Suter |	Pacific Islands Fisheries Science Center | `Facilitator`
+Stacey Williams |	Coastal Survey Solutions, LLC | `Observer Participant`
+Jennifer Au	| National Centers for Coastal Ocean Science | `Observer Participant`
 
 * * *
 
