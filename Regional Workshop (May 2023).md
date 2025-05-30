@@ -4,15 +4,19 @@ title: Regional Workshop (May 2023)
 description: During the workshop, participants identified 8 short-term, actionable projects nested under 4 five-year breakthrough goals
 ---
 
+<center><b>
+  Regional Plan Factsheets
+</b></center>
+
+<div style="text-align: center;">
+  <a href="/assets/Factsheet_RegionalPlan_English.pdf" target="_blank">English</a> | <a href="/assets/Factsheet_RegionalPlan_Spanish.pdf" target="_blank">Spanish</a>
+</div>
+
 The in-person workshop, which occurred May 22-25, 2023 in Carolina, Puerto Rico, identified five-year breakthrough goals and annual objectives. Projects identified and prioritized in this workshop emphasized collaborative efforts of data collection that align with regional needs and education and outreach priorities for the local fishing communities. These projects, referred to as regional projects, are being addressed in working groups.
 
 This project was a large undertaking and our successes would not have been possible without the collaboration of our regional partners including Puerto Rico DNER, US Virgin Islands DFW, CFMC, SSC members, university researchers, National Park Service, NOAA HQ, and SERO.
 
 A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fisheries-and-ecosystem-data-collection-caribbean-through-partnership){:target="_blank"} was published in 2024 that highlights our collaborative successes.
-
-**Regional Plan Factsheets**
-
-[English](assets/Factsheet_RegionalPlan_English.pdf){:target="_blank"} | [Spanish](assets/Factsheet_RegionalPlan_Spanish.pdf){:target="_blank"}
 
 ## Five-Year Breakthrough Goals
 
