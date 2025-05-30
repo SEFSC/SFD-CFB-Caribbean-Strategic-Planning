@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Regional Workshop (May 2023)
-description: Workshop participants identified and priorotized 10 short-term, actionable projects nested under 4 five-year breakthrough goals
+description: Participants identified and priorotized 10 short-term, actionable projects nested under 4 five-year breakthrough goals
 ---
 
 <center><b>
