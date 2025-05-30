@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Regional Workshop (May 2023)
-description: During the workshop, participants identified 8 short-term, actionable projects nested under 4 five-year breakthrough goals
+description: Workshop participants identified and priorotized 10 short-term, actionable projects nested under 4 five-year breakthrough goals
 ---
 
 <center><b>
@@ -11,6 +11,8 @@ description: During the workshop, participants identified 8 short-term, actionab
 <div style="text-align: center;">
   <a href="/SFD-CFB-Caribbean-Strategic-Planning/assets/Factsheet_RegionalPlan_English.pdf" target="_blank">English</a> | <a href="/SFD-CFB-Caribbean-Strategic-Planning/assets/Factsheet_RegionalPlan_Spanish.pdf" target="_blank">Spanish</a>
 </div>
+
+<br>
 
 The in-person workshop, which occurred May 22-25, 2023 in Carolina, Puerto Rico, identified five-year breakthrough goals and annual objectives. Projects identified and prioritized in this workshop emphasized collaborative efforts of data collection that align with regional needs and education and outreach priorities for the local fishing communities. These projects, referred to as regional projects, are being addressed in working groups.
 
@@ -39,7 +41,7 @@ A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fi
 
 **Regional Projests**
 
-**1. Toolbox**
+**1. Determine appropriate alternative methods/approaches to inform management given available data (Toolbox)**
 
 [Team Charter](assets/TC_Toolbox.pdf){:target="_blank"}
 
@@ -51,7 +53,7 @@ A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fi
 
 <br>
 
-**2. Fishery Dependent Data**
+**2a. Establish a prioritized list of Fishery Dependent data needs:**
 
 [Team Charter](assets/TC_FD.pdf){:target="_blank"} 
 
@@ -65,7 +67,7 @@ A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fi
 
 <br>
 
-**3. Fishery Independent Data**
+**2b. Establish a prioritized list of Fishery Independent data needs**
 
 [Team Charter](assets/TC_FI.pdf){:target="_blank"} 
 
@@ -77,7 +79,7 @@ A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fi
 
 <br>
 
-**4. Life History Data**
+**2c. Establish a prioritized list of Life History data needs**
 
 [Team Charter](assets/TC_LifeHistory.pdf){:target="_blank"} 
 
@@ -89,7 +91,7 @@ A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fi
 
 <br>
 
-**5. Habitat/Environmental Data**
+**2d. Establish a prioritized list of Habitat and Environmental data needs**
 
 [Team Charter](assets/TC_HabitatEnvironmental.pdf){:target="_blank"} 
 
@@ -101,7 +103,7 @@ A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fi
 
 <br>
 
-**6. Socioeconomic Data**
+**2e. Establish a prioritized list of Socioeconomic data needs**
 
 [Team Charter](assets/TC_Socioeconomic.pdf){:target="_blank"} 
 
@@ -113,7 +115,19 @@ A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fi
 
 <br>
 
-**7. Communications**
+**3. Develop a science and funding plan to address data needs**
+
+Project has not yet started. Check back for updates.
+
+<br>
+
+**4. Develop a data management plan**
+
+Project has not yet started. Check back for updates.
+
+<br>
+
+**5. Identify current communicators and mechanisms/methods within agencies and between external stakeholders and managers (Communications)**
 
 [Team Charter](assets/TC_Communications.pdf){:target="_blank"} 
 
@@ -129,7 +143,19 @@ A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fi
 
 <br>
 
-**8. Funding Governance**
+**6. Identify best or preferred methods for communication efforts by assessing current roles and methods used**
+
+Project has not yet started. Check back for updates.
+
+<br>
+
+**7. Foster face-to-face engagement for stakeholders and students including capacity building and sustained development**
+
+Project has not yet started. Check back for updates.
+
+<br>
+
+**8. Define the needs and mechanisms to streamline the process for establishing a funding governance structure (Funding Governance)**
 
 [Team Charter](assets/TC_FundingGovernance.pdf){:target="_blank"} 
 
@@ -138,6 +164,18 @@ A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fi
 *Deliverables*
 
 > Project in progress. Check back for deliverables
+
+<br>
+
+**9. Summarize recommendations for improving current funding structures and developing more appropriate structures, as needed, given the unique challenges of the U.S. Caribbean and share with entities that can act on making these improvements**
+
+Project has not yet started. Check back for updates.
+
+<br>
+
+**10. Perform a network analysis to assess impact and growth in the region**
+
+Project has not yet started. Check back for updates.
 
 <br>
 
