@@ -9,7 +9,7 @@ description: During the workshop, participants identified 8 short-term, actionab
 </b></center>
 
 <div style="text-align: center;">
-  <a href="/assets/Factsheet_RegionalPlan_English.pdf" target="_blank">English</a> | <a href="/assets/Factsheet_RegionalPlan_Spanish.pdf" target="_blank">Spanish</a>
+  <a href="/SFD-CFB-Caribbean-Strategic-Planning/assets/Factsheet_RegionalPlan_English.pdf" target="_blank">English</a> | <a href="/SFD-CFB-Caribbean-Strategic-Planning/assets/Factsheet_RegionalPlan_Spanish.pdf" target="_blank">Spanish</a>
 </div>
 
 The in-person workshop, which occurred May 22-25, 2023 in Carolina, Puerto Rico, identified five-year breakthrough goals and annual objectives. Projects identified and prioritized in this workshop emphasized collaborative efforts of data collection that align with regional needs and education and outreach priorities for the local fishing communities. These projects, referred to as regional projects, are being addressed in working groups.
