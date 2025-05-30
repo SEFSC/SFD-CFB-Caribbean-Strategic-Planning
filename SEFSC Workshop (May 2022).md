@@ -121,7 +121,7 @@ h. Implement agile project management procedures
 
 > LP01. Train staff in desired project management tool
 >
-> *Deliverable:* GitHub and Project Management Resources
+> *Deliverable:* [GitHub and Project Management Resources](assets/GitHubProjectManagementResources.pdf){:target="_blank"}
 
 <br>
 
@@ -165,7 +165,7 @@ m. Develop external communications strategy
 
 > LP14. Establish a protocol to have formal and informal communications with stakeholders in the language of their choice (e.g., Spanish translation)
 >
-> *Deliverable:* Recommendations for Spanish Translation Services
+> *Deliverable:* [Recommendations for Spanish Translation Services](assets/RecommendationsSpanishTranslation.pdf){:target="_blank"}
 
 <br>
 
