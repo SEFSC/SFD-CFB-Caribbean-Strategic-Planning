@@ -40,15 +40,17 @@ The virtual workshop, which occurred May 16-18, 2022, established long and short
 
 **Long-term (Second-Level) Goals and Local Projects**
 
+*Publicly available deliverables are linked below*
+
 **1. Improve Data Collection Efforts**
 
 a. Develop and implement fishery-dependent sampling and monitoring programs
 
-> LP9. Develop the plan to identify funding and resources needed to develop and implement recreational data collection programs for spiny lobster and queen conch
+> LP09. Develop the plan to identify funding and resources needed to develop and implement recreational data collection programs for spiny lobster and queen conch
 > 
 > LP10. Develop the plan to identify funding and resources needed to develop and implement a survey for commercial port sampling to be run by the territories with SEFSC support and guidance
 > 
-> LP6. Make Shellcatch data available and accessible
+> LP06. Make Shellcatch data available and accessible
 > 
 > LP28. Identify mechanisms to better leverage stakeholder local knowledge
 > 
@@ -85,7 +87,9 @@ e. Operationalize Analytical Product Workflows
 
 > LP20. Document best practices for reproducible, standardized workflows
 >
-> LP5. Identify regional data sources with emphasis on federal funding
+> LP05. Identify regional data sources with emphasis on federal funding
+>
+> *Deliverable:* [Caribbean Research Inventory](https://apps-sefsc.fisheries.noaa.gov/apex/f?p=112:9)
 >
 > LP19. Strategically organize access to past internal work
 >
@@ -115,7 +119,9 @@ g. Conduct well aligned research to produce informed assessment inputs and metho
 
 h. Implement agile project management procedures
 
-> LP1. Train staff in desired project management tool
+> LP01. Train staff in desired project management tool
+>
+> *Deliverable:* GitHub and Project Management Resources
 
 <br>
 
@@ -139,7 +145,7 @@ j. Effectively manage staff resources
 
 k. Invest time and resources into strategic planning for working groups, branches, divisions, and other NMFS offices
 
-> LP3. Year 2 strategic planning workshop to include SEFSC and regional partners
+> LP03. Year 2 strategic planning workshop to include SEFSC and regional partners
 
 <br>
 
@@ -158,12 +164,14 @@ l. Conduct collaborative science
 m. Develop external communications strategy
 
 > LP14. Establish a protocol to have formal and informal communications with stakeholders in the language of their choice (e.g., Spanish translation)
+>
+> *Deliverable:* Recommendations for Spanish Translation Services
 
 <br>
 
 n. Enhance education, communication, and outreach
 
-> LP2. Create a portfolio of who we are and what projects we work on
+> LP02. Create a portfolio of who we are and what projects we work on
 
 <br>
 
@@ -174,6 +182,8 @@ o. Develop a successful EBFM strategy that eliminates overfishing and overfished
 > LPXX. Develop a robust sampling program to obtain monthly price/lb data by species and island, and expenditure data per trip by fleet
 >
 > LP22. Complete the Caribbean Ecosystem Status Report
+>
+> *Deliverable:* [Caribbean ESR](https://github.com/Gulf-IEA/Caribbean-ESR-2)
 >
 > LP30. Test stock assessment “alternatives” - e.g., management procedures, portfolio approach, to see if they can provide robust management advice
 >
@@ -193,11 +203,11 @@ p. Build trust, rapport, and relationships with local stakeholder groups
 
 q. Develop a structure to identify and coordinate projects to better leverage limited funding
 
-> LP7. Identify internal sources of funding for US Caribbean stock assessment and EBFM
+> LP07. Identify internal sources of funding for US Caribbean stock assessment and EBFM
 >
 > LP24. Create back pocket plans -- we can expect emergencies or random funding so we should have plans in place to use these funds when they become available
 >
-> LP8. Match ongoing and planned projects and funding programs to link funding sources to projects
+> LP08. Match ongoing and planned projects and funding programs to link funding sources to projects
 
 <br>
 
