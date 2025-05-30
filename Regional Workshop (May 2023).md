@@ -18,7 +18,7 @@ This project was a large undertaking and our successes would not have been possi
 
 A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fisheries-and-ecosystem-data-collection-caribbean-through-partnership){:target="_blank"} was published in 2024 that highlights our collaborative successes.
 
-**Five-Year Breakthrough Goals**
+<u>**Five-Year Breakthrough Goals**</u>
 
 1. Expand the toolbox to inform fisheries management
 2. Reduce gaps in datasets used to inform management
@@ -27,7 +27,7 @@ A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fi
 
 * * *
 
-**Regional Projests**
+<u>**Regional Projests**</u>
 
 **Toolbox**
 
@@ -37,6 +37,8 @@ A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fi
 
 > Project in progress. Check back for deliverables
 
+<br><br>
+
 **Fishery Dependent Data**
 
 [Team Charter](assets/TC_FD.pdf){:target="_blank"} 
@@ -45,7 +47,9 @@ A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fi
 
 > [FD Recommendations](assets/CSP_FD_Recommendations_2025.pdf){:target="_blank"}
 > 
-> [FD Data Inventory](https://docs.google.com/spreadsheets/d/1ZwjcioiZiMqN0lFWoqVVwzZWmNhbQlJ1WWbwds-e5f8/edit?gid=94681785#gid=94681785) (request view access to download)
+> [FD Data Inventory](https://docs.google.com/spreadsheets/d/1ZwjcioiZiMqN0lFWoqVVwzZWmNhbQlJ1WWbwds-e5f8/edit?gid=94681785#gid=94681785){:target="_blank"} (request view access to download)
+
+<br><br>
 
 **Fishery Independent Data**
 
@@ -55,6 +59,8 @@ A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fi
 
 > Project in progress. Check back for deliverables
 
+<br><br>
+
 **Life History Data**
 
 [Team Charter](assets/TC_LifeHistory.pdf){:target="_blank"} 
@@ -62,6 +68,8 @@ A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fi
 *Deliverables*
 
 > Project in progress. Check back for deliverables
+
+<br><br>
 
 **Habitat/Enironmental Data**
 
@@ -71,13 +79,17 @@ A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fi
 
 > Project in progress. Check back for deliverables
 
+<br><br>
+
 **Socioeconomic Data**
 
 [Team Charter](assets/TC_Socioeconomic.pdf){:target="_blank"} 
 
 *Deliverables*
 
-> [Socioeconomic Recommendations](assets/CSP_Socioeconomic_Recommendations_2024.pdf){:target="_blank"} 
+> [Socioeconomic Recommendations](assets/CSP_SocioeconomicRecommendations_2024.pdf){:target="_blank"}
+
+<br><br>
 
 **Communications**
 
@@ -89,7 +101,9 @@ A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fi
 > 
 > [Appendix](assets/CSP_CommunicationsAppendix_2024.pdf){:target="_blank"}
 > 
-> [NOAA Internal Communications](assets/CSP_CommunicationsNOAAInternal.pdf_2024){:target="_blank"} 
+> [NOAA Internal Communications](assets/CSP_CommunicationsNOAAInternal_2024.pdf){:target="_blank"}
+
+<br><br>
 
 **Funding Governance**
 
