@@ -4,6 +4,13 @@ title: SEFSC Workshop (May 2022)
 description: Participants identified and prioritized 39 short-term, actionable projects nested under 7 long-term goals
 ---
 
+<!-- navigation.html -->
+<div style="text-align: center; margin-bottom: 1rem;">
+  <a href="/" style="margin-right: 20px; ">Home</a>
+  <a href="Regional.html" style="margin-right: 20px;">Regional Workshop (May 2023)</a>
+  <a href="Team.html">Team</a>
+</div>
+
 <center><b>
   SEFSC Plan Factsheets
 </b></center>
