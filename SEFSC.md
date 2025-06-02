@@ -51,6 +51,8 @@ The virtual workshop, which occurred May 16-18, 2022, established long and short
 
 *Publicly available deliverables are linked below*
 
+<br>
+
 **1. Improve Data Collection Efforts**
 
 a. Develop and implement fishery-dependent sampling and monitoring programs
@@ -218,10 +220,3 @@ q. Develop a structure to identify and coordinate projects to better leverage li
 >
 > LP08. Match ongoing and planned projects and funding programs to link funding sources to projects
 
-<br>
-
-* * *
-
-<br>
-
-[home](./)
