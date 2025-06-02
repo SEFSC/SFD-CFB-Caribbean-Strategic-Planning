@@ -1,3 +1,12 @@
+<!-- navigation.html -->
+<div style="text-align: center; margin-bottom: 1rem;">
+  <a href="/" style="margin-right: 20px; ">Home</a>
+  <a href="SEFSC.html" style="margin-right: 20px;">SEFSC Workshop (May 2022)</a>
+  <a href="Regional.html">Regional Workshop (May 2023)</a>
+</div>
+
+<br>
+
 This project was a large undertaking and our successes would not have been possible without the collaboration of our regional partners including Puerto Rico Department of Natural and Environmental Resources [(DNER)](https://www.ecos.org/members/puerto-rico/){:target="_blank"}, US Virgin Islands Division of Fish and Wildlife [(DFW)](https://dpnr.vi.gov/fish-and-wildlife/){:target="_blank"}, Caribbean Fishery Management Council [(CFMC)](https://www.caribbeanfmc.com/){:target="_blank"}, Scientific and Statistical Committee [(SSC)](https://www.caribbeanfmc.com/about-caribbean-fishery-management-council/scientific-and-statistical-committee){:target="_blank"}, university researchers, National Park Service [(NPS)](https://www.nps.gov/subjects/oceans/caribbean.htm){:target="_blank"}, Cooperative Institute for Marine and Atmospheric Studies [(CIMAS)](https://cimas.earth.miami.edu/){:target="_blank"}, NOAA Headquarters [(NOAA)](https://www.fisheries.noaa.gov/about/office-habitat-conservation){:target="_blank"}, and Southeast Regional Office [(SERO)](https://www.fisheries.noaa.gov/southeast/sustainable-fisheries/sustainable-fisheries-caribbean){:target="_blank"}.
 
 A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fisheries-and-ecosystem-data-collection-caribbean-through-partnership){:target="_blank"} was published in 2024 that highlights our collaborative successes.
