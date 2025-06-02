@@ -20,6 +20,10 @@ Caribbean Strategic Planning Project
   [Regional Workshop (May 2023)](Regional Workshop (May 2023).md)
 </div>
 
+<div style="text-align: center;">
+  <a href="/SFD-CFB-Caribbean-Strategic-Planning/SEFSC Workshop (May 2022).md" target="_blank">SEFSC Workshop (May 2022)</a> | <a href="/SFD-CFB-Caribbean-Strategic-Planning/Regional Workshop (May 2023).md" target="_blank">Regional Workshop (May 2023)</a>
+</div>
+
 **Project Summary**
 
 Regionally-specific and spatially extensive data deficiencies in U.S. Caribbean stocks significantly limit our ability to provide effective management advice. Crucial data limitations include reliable life history information, spatially and temporally extensive fishery-independent datasets, size and age composition, long term species-specific landings, and information on discards and bycatch. Other data issues include incomplete fisheries reporting, changes to reporting forms, a lack of local enforcement, and impact of market demands. Current practices for assessing U.S. Caribbean stocks involve catch-only methods, from which stock status cannot be determined. The only successful data-rich assessments of U.S. Caribbean stocks, in which management advice was provided, are the recent _Panulirus argus_ (Caribbean spiny lobster; Puerto Rico, St. Thomas/St. John, and St. Croix) and _Balistes vetula_ (queen triggerfish; Puerto Rico) assessments. Other commercial and recreational species important to the economy of the U.S. Caribbean region include _Aliger gigas_ (queen conch), _Ocyurus chrysurus_ (yellowtail snapper), _Epinephelus guttatus_ (red hind), and _Lachnolaimus maximus_ (hogfish), among others. Management advice obtained from the stock assessment process for such species is essential in order to effectively manage U.S. Caribbean fish stocks.
