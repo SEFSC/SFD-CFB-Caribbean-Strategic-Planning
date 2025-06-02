@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Team
-description: Participantion was from 14 organizations and agencies
+description: Participantion was from 17 organizations and agencies
 ---
 
 <!-- navigation.html -->
@@ -85,7 +85,7 @@ Liajay Rivera-Garcia | Caribbean Fishery Management Council
 Grisel Rodriguez Ferrer | Puerto Rico Department of Natural and Environmental Resources
 Skyler Sagarese* | Southeast Fisheries Science Center
 Wilson Santiago | Caribbean Fishery Management Council
-Tarsila Seara | University of New Hampshire
+Tarsila Seara | University of New Haven
 Michelle Sharer-Umpierre |	University of Puerto Rico
 Virginia Shervette | University of South Carolina-Aiken
 Laughlin Siceloff | National Centers for Coastal Ocean Science
