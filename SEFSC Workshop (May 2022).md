@@ -89,7 +89,7 @@ e. Operationalize Analytical Product Workflows
 >
 > LP05. Identify regional data sources with emphasis on federal funding
 >
->   *Deliverable:* [Caribbean Research Inventory](https://apps-sefsc.fisheries.noaa.gov/apex/f?p=112:9)
+> *Deliverable:* [Caribbean Research Inventory](https://apps-sefsc.fisheries.noaa.gov/apex/f?p=112:9)
 >
 > LP19. Strategically organize access to past internal work
 >
@@ -208,44 +208,6 @@ q. Develop a structure to identify and coordinate projects to better leverage li
 > LP24. Create back pocket plans -- we can expect emergencies or random funding so we should have plans in place to use these funds when they become available
 >
 > LP08. Match ongoing and planned projects and funding programs to link funding sources to projects
-
-<br>
-
-* * *
-
-<br>
-
-**Team**
-
-Participant | Affiliation | Role
---- | --- | ---
-Larry Beerkircher | SEFSC Catch Validation & Biosampling Branch | `In-session Participant`
-Jeremiah Blondeau |	SEFSC Atlantic & Caribbean Reef Fish Branch | `Report-out Participant`
-Shannon Cass-Calay | SEFSC Sustainable Fisheries Division | `PI`, `In-session Participant`
-Nancie Cummings | SEFSC Caribbean Fisheries Branch | `PI`, `In-session Participant`
-Rachel Banton |	CIMAS | `Facilitator`
-Graciela Garcia-Moliner |	CFMC| `Report-out Participant`
-Ron Hill | SEFSC Biology & Life History	Branch | `Report-out Participant`
-Eric Hoffmayer | SEFSC Oceanic & Coastal Pelagics	Branch | `Report-out Participant`
-Kim Johnson | SEFSC Survey Design, Data Management, & Dissemination	Branch | `In-session Participant`
-Christian Jones | SEFSC Oceanic & Coastal Pelagics	Branch | `PI`, `In-session Participant`
-Mandy Karnauskas | SEFSC Directorate | `In-session Participant`
-Todd Kellison | Population & Ecosystems Monitoring Division | `Report-out Participant`
-María López-Mercer | SERO	| `Report-out Participant`
-Alan Lowther | SEFSC Survey Design, Data Management & Dissemination	Branch | `Report-out Participant`
-Estrella Malca | CIMAS | `Report-out Participant`
-Stephanie Martinez | SEFSC Caribbean Fisheries	Branch | `In-session Participant`
-Vivian Matter | SEFSC Data Analysis & Assessment Support	Branch | `PI`, `In-session Participant`
-Kevin McCarthy | SEFSC Caribbean Fisheries	Branch | `PI`, `In-session Participant`
-Matt McPherson | SEFSC Social Sciences Research Group	| `Report-out Participant`
-Refik Orhun | SEFSC Caribbean Fisheries	Branch | `Report-out Participant`
-Kate Overly | SEFSC Gulf & Caribbean Reef Fish	Branch | `PI`, `In-session Participant`
-Adyan Rios | SEFSC Caribbean Fisheries	Branch | `PI`, `In-session Participant`
-Skyler Sagarese |	SEFSC Gulf Fisheries	Branch | `PI`, `In-session Participant`
-Steven Smith | CIMAS | `PI`, `In-session Participant`
-Molly Stevens | Data Analysis & Assessment Support	Branch | `Report-out Participant`
-Brent Stoffle | SEFSC Social Science Research Group | `In-session Participant`
-John Walter | SEFSC Directorate | `Report-out Participant`
 
 <br>
 
