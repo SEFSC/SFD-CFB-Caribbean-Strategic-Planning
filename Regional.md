@@ -6,7 +6,7 @@ description: Participants identified and priorotized 10 short-term, actionable p
 
 <!-- navigation.html -->
 <div style="text-align: center; margin-bottom: 1rem;">
-  <a href="/" style="margin-right: 20px; ">Home</a>
+  <a href="./" style="margin-right: 20px; ">Home</a>
   <a href="SEFSC.html" style="margin-right: 20px;">SEFSC Workshop (May 2022)</a>
   <a href="Team.html">Team</a>
 </div>
