@@ -7,17 +7,17 @@ Caribbean Strategic Planning Project
 </p>
 
 <div style="text-align: center;">
-[SEFSC Workshop (May 2022)](SEFSC Workshop (May 2022).html) | [Regional Workshop (May 2022)](Regional Workshop (May 2022).html)
+[SEFSC Workshop (May 2022)](SEFSC Workshop (May 2022).md) | [Regional Workshop (May 2022)](Regional Workshop (May 2022).md)
 </div>
 
 <div style="text-align: center;">
-  <a href="SFD-CFB-Caribbean-Strategic-Planning/SEFSC Workshop (May 2022).html" style="font-weight:bold;">SEFSC Workshop (May 2022)</a> | 
-  <a href="SFD-CFB-Caribbean-Strategic-Planning/Regional Workshop (May 2023).html" style="font-weight:bold;">Regional Workshop (May 2023)</a>
+  <a href="SFD-CFB-Caribbean-Strategic-Planning/SEFSC Workshop (May 2022).md" style="font-weight:bold;">SEFSC Workshop (May 2022)</a> | 
+  <a href="SFD-CFB-Caribbean-Strategic-Planning/Regional Workshop (May 2023).md" style="font-weight:bold;">Regional Workshop (May 2023)</a>
 </div>
 
 <div style="text-align: center; font-weight: bold;">
-  [SEFSC Workshop (May 2022)](SEFSC Workshop (May 2022).html) |
-  [Regional Workshop (May 2023)](Regional Workshop (May 2023).html)
+  [SEFSC Workshop (May 2022)](SEFSC Workshop (May 2022).md) |
+  [Regional Workshop (May 2023)](Regional Workshop (May 2023).md)
 </div>
 
 **Project Summary**
