@@ -182,10 +182,3 @@ Project has not yet started. Check back for updates.
 
 Project has not yet started. Check back for updates.
 
-<br>
-
-* * *
-
-<br>
-
-[home](./)
