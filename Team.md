@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Team
+description: Participantion was from 14 organizations and agencies
 ---
 
 <!-- navigation.html -->
