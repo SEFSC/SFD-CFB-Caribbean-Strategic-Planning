@@ -89,7 +89,7 @@ e. Operationalize Analytical Product Workflows
 >
 > LP05. Identify regional data sources with emphasis on federal funding
 >
-> *Deliverable:* [Caribbean Research Inventory](https://apps-sefsc.fisheries.noaa.gov/apex/f?p=112:9)
+>   *Deliverable:* [Caribbean Research Inventory](https://apps-sefsc.fisheries.noaa.gov/apex/f?p=112:9)
 >
 > LP19. Strategically organize access to past internal work
 >
