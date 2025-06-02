@@ -21,7 +21,7 @@ Caribbean Strategic Planning Project
 </div>
 
 <div style="text-align: center;">
-  <a href="/SFD-CFB-Caribbean-Strategic-Planning/SEFSC Workshop (May 2022).md" target="_blank">SEFSC Workshop (May 2022)</a> | <a href="/SFD-CFB-Caribbean-Strategic-Planning/Regional Workshop (May 2023).md" target="_blank">Regional Workshop (May 2023)</a>
+  <a href="./SFD-CFB-Caribbean-Strategic-Planning/SEFSC Workshop (May 2022).md">SEFSC Workshop (May 2022)</a> | <a href="./SFD-CFB-Caribbean-Strategic-Planning/Regional Workshop (May 2023).md">Regional Workshop (May 2023)</a>
 </div>
 
 **Project Summary**
