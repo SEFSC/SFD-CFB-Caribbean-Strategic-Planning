@@ -46,6 +46,8 @@ The in-person workshop, which occurred May 22-25, 2023 in Carolina, Puerto Rico,
 
 **Regional Projests**
 
+*Deliverables are linked below*
+
 **1. Determine appropriate alternative methods/approaches to inform management given available data (Toolbox)**
 
 [Team Charter](assets/TC_Toolbox.pdf){:target="_blank"}
