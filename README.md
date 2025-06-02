@@ -26,10 +26,15 @@ This project was a large undertaking and our successes would not have been possi
 
 A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fisheries-and-ecosystem-data-collection-caribbean-through-partnership){:target="_blank"} was published in 2024 that highlights our collaborative successes.
 
+<br><br>
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/f192392b-fcd7-4413-9a97-8dcf6505f876" alt="Agency Logos" width="500">
 </p>
 
+<br><br>
+
+**Project Participants**
 Name | Affiliation
 --- | ---
 Juan Agar | Southeast Fisheries Science Center
