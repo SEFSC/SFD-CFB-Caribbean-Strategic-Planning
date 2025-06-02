@@ -7,7 +7,7 @@ Caribbean Strategic Planning Project
 </p>
 
 <div style="text-align: center;">
-  <a href="/SEFSC Workshop (May 2022).md">SEFSC Workshop (May 2022)</a> | <a href="/Regional Workshop (May 2023).md">Regional Workshop (May 2023)</a>
+  <a href="SEFSC Workshop (May 2022).md">SEFSC Workshop (May 2022)</a> | <a href="Regional Workshop (May 2023).md">Regional Workshop (May 2023)</a>
 </div>
 
 **Project Summary**
