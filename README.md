@@ -6,8 +6,10 @@ Caribbean Strategic Planning Project
 <img src="https://github.com/user-attachments/assets/2b9b2450-b418-43c2-88b3-161b7b8949d8" alt="CSP Logo" width="180" height="180">
 </p>
 
-<h2 align="center">
-[SEFSC Workshop (May 2022)](./SEFSC Workshop (May 2022).html) | [Regional Workshop (May 2023)](./Regional Workshop (May 2023).html)
+<div style="text-align: center;">
+  [SEFSC Workshop (May 2022)](./SEFSC Workshop (May 2022).html) | [Regional Workshop (May 2023)](./Regional Workshop (May 2023).html)
+</div>
+
 </h2>
 
 ## Project Summary
