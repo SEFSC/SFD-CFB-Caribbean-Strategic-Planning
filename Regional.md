@@ -44,7 +44,7 @@ The in-person workshop, which occurred May 22-25, 2023 in Carolina, Puerto Rico,
 
 <br>
 
-**Regional Projests**
+**Regional Projects**
 
 *Deliverables are linked below*
 
