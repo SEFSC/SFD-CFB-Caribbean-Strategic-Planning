@@ -11,6 +11,8 @@ description: Participants identified and prioritized 39 short-term, actionable p
   <a href="Team.html">Team</a>
 </div>
 
+<br>
+
 <center><b>
   SEFSC Plan Factsheets
 </b></center>
