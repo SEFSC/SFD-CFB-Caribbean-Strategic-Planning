@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Team
-description: 
 ---
 
 <!-- navigation.html -->
