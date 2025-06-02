@@ -16,10 +16,6 @@ description: Participants identified and priorotized 10 short-term, actionable p
 
 The in-person workshop, which occurred May 22-25, 2023 in Carolina, Puerto Rico, identified five-year breakthrough goals and annual objectives. Projects identified and prioritized in this workshop emphasized collaborative efforts of data collection that align with regional needs and education and outreach priorities for the local fishing communities. These projects, referred to as regional projects, are being addressed in working groups.
 
-This project was a large undertaking and our successes would not have been possible without the collaboration of our regional partners including Puerto Rico Department of Natural and Environmental Resources [(DNER)](https://www.ecos.org/members/puerto-rico/), US Virgin Islands Division of Fish and Wildlife [(DFW)](https://dpnr.vi.gov/fish-and-wildlife/), Caribbean Fishery Management Council [(CFMC)](https://www.caribbeanfmc.com/), Scientific and Statistical Committee [(SSC)](https://www.caribbeanfmc.com/about-caribbean-fishery-management-council/scientific-and-statistical-committee), university researchers, National Park Service [(NPS)](https://www.nps.gov/subjects/oceans/caribbean.htm), Cooperative Institute for Marine and Atmospheric Studies [(CIMAS)](https://cimas.earth.miami.edu/), NOAA Headquarters [(NOAA)](https://www.fisheries.noaa.gov/about/office-habitat-conservation), and Southeast Regional Office [(SERO)](https://www.fisheries.noaa.gov/southeast/sustainable-fisheries/sustainable-fisheries-caribbean).
-
-A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fisheries-and-ecosystem-data-collection-caribbean-through-partnership){:target="_blank"} was published in 2024 that highlights our collaborative successes.
-
 <br>
 
 * * *
