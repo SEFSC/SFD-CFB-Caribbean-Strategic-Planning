@@ -21,24 +21,22 @@ The project, “Developing a Strategic Plan for Fisheries Stock Assessment in th
 
 <br>
 
-<p align="center">
-  <img src="https:count.getloli.com/get@SEFSC.SFD-CFB-Caribbean-Strategic-Planning-home" alt="Page views" />
-</p>
-
-<p align="center">
-  <img src="https://api.countapi.xyz/hit/SEFSC.SFD-CFB-Caribbean-Strategic-Planning-home/visits?render=true" alt="Page views">
-</p>
-
 <!-- Page view counter -->
 <p align="center">
   Views: <span id="view-count">Loading...</span>
 </p>
 
 <script>
-  fetch('https://api.countapi.xyz/hit/SEFSC.SFD-CFB-Caribbean-Strategic-Planning-home/visits')
-  .then(response => response.json())
-  .then(data => {
-    document.getElementById('view-count').textContent = data.value;
+  document.addEventListener("DOMContentLoaded", function () {
+    fetch("https://api.countapi.xyz/hit/SEFSC.SFD-CFB-Caribbean-Strategic-Planning-home/visits")
+      .then((res) => {
+        if (!res.ok) {
+            throw new Error ("No network response");
+        }
+        return res.json();
+      })
+      .then((data) => {
+        document.getElementById('view-count').textContent = "Unavailable";
   });
 </script>
 
