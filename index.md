@@ -21,6 +21,12 @@ The project, “Developing a Strategic Plan for Fisheries Stock Assessment in th
 
 <br>
 
+<p align="center">
+  <img scr="https://count.getloli.com/get/@SEFSC.SFD-CFB-Caribbean-Strategic-Planning-home" alt="Page views" />
+</p>
+
+<br>
+
 * * *
 
 <br>
