@@ -3,6 +3,7 @@
   <a href="SEFSC.html" style="margin-right: 20px;">SEFSC Workshop (May 2022)</a>
   <a href="Regional.html" style="margin-right: 20px;">Regional Workshop (May 2023)</a>
   <a href="Team.html">Team</a>
+  <a href="Publications.html">Publications</a>
 </div>
 
 <h1 align="center">
