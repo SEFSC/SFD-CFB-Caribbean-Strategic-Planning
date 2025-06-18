@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Publications
-description: Check out the publications related to this project
+description: This work has been shared with our stakeholders
 ---
 
 <!-- navigation.html -->
