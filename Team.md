@@ -8,7 +8,8 @@ description: Participantion was from 17 organizations and agencies
 <div style="text-align: center; margin-bottom: 1rem;">
   <a href="./" style="margin-right: 20px; ">Home</a>
   <a href="SEFSC.html" style="margin-right: 20px;">SEFSC Workshop (May 2022)</a>
-  <a href="Regional.html">Regional Workshop (May 2023)</a>
+  <a href="Regional.html" style="margin-right: 20px;">Regional Workshop (May 2023)</a>
+  <a href="Publications.html">Publications</a>
 </div>
 
 <br>
