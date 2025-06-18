@@ -23,7 +23,7 @@ This project was a large undertaking and our successes would not have been possi
 
 A [NOAA Feature Story](https://www.fisheries.noaa.gov/feature-story/improving-fisheries-and-ecosystem-data-collection-caribbean-through-partnership){:target="_blank"} was published in February 2024 that highlights our collaborative successes.
 
-This work was presented at the [2024 American Fisheries Society Annual Meeting](https://www.xcdsystem.com/afs/program/y7rKVr9/index.cfm?pgid=1485&sid=38897&abid=123811){:target="_blank"} in Honolulu, HI for the special session *Science and management of U.S. island fisheries: challenges, successes, and forward progress*.
+This work was presented at the [2024 American Fisheries Society Annual Meeting](https://www.xcdsystem.com/afs/program/y7rKVr9/index.cfm?pgid=1485&sid=38897&abid=123811){:target="_blank"} in Honolulu, HI for the special session, *Science and management of U.S. island fisheries: challenges, successes, and forward progress*.
 
 <br>
 
