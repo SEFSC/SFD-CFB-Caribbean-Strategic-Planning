@@ -2,7 +2,7 @@
 <div style="text-align: center; margin-bottom: 1rem;">
   <a href="SEFSC.html" style="margin-right: 20px;">SEFSC Workshop (May 2022)</a>
   <a href="Regional.html" style="margin-right: 20px;">Regional Workshop (May 2023)</a>
-  <a href="Team.html">Team</a>
+  <a href="Team.html" style="margin-right: 20px;">Team</a>
   <a href="Publications.html">Publications</a>
 </div>
 
