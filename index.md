@@ -23,9 +23,11 @@ The project, “Developing a Strategic Plan for Fisheries Stock Assessment in th
 
 <br>
 
-<!-- hitwebcounter Code START -->
+<p align="center">
+View count: <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=21394112&style=0008&nbdigits=4&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>     
+<img src="https://hitwebcounter.com/counter/counter.php?page=21394146&style=0006&nbdigits=4&type=page&initCount=2" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>                          
+</p>
 
 <br>
 
