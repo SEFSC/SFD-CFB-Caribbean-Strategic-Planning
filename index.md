@@ -1,8 +1,10 @@
 <!-- navigation.html -->
 <div style="text-align: center; margin-bottom: 1rem;">
+  <a href="./" style="margin-right: 20px; ">Home</a>
   <a href="SEFSC.html" style="margin-right: 20px;">SEFSC Workshop (May 2022)</a>
   <a href="Regional.html" style="margin-right: 20px;">Regional Workshop (May 2023)</a>
-  <a href="Team.html">Team</a>
+  <a href="Team.html" style="margin-right: 20px;">Team</a>
+  <a href="Publications.html">Publications</a>
 </div>
 
 <h1 align="center">
@@ -21,24 +23,11 @@ The project, “Developing a Strategic Plan for Fisheries Stock Assessment in th
 
 <br>
 
-<!-- Page view counter -->
 <p align="center">
-  Views: <span id="view-count">Loading...</span>
+View count: <!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=21394146&style=0006&nbdigits=4&type=page&initCount=2" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>                          
 </p>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    fetch("https://api.countapi.xyz/hit/SEFSC.SFD-CFB-Caribbean-Strategic-Planning-home/visits")
-      .then((res) => {
-        if (!res.ok) {
-            throw new Error ("No network response");
-        }
-        return res.json();
-      })
-      .then((data) => {
-        document.getElementById('view-count').textContent = "Unavailable";
-  });
-</script>
 
 <br>
 
