@@ -74,7 +74,7 @@ The in-person workshop, which occurred May 22-25, 2023 in Carolina, Puerto Rico,
 
 > [FD Recommendations](assets/CSP_FD_Recommendations_2025.pdf){:target="_blank"}
 > 
-> [FD Data Inventory](https://docs.google.com/spreadsheets/d/1ZwjcioiZiMqN0lFWoqVVwzZWmNhbQlJ1WWbwds-e5f8/edit?gid=94681785#gid=94681785){:target="_blank"} (request view access to download)
+> [FD Data Inventory](assets/CSP_FD_Inventory.xlsx){:target="_blank"}
 
 <br>
 
