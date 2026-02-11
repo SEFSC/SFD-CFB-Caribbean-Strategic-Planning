@@ -192,7 +192,7 @@ n. Enhance education, communication, and outreach
 
 o. Develop a successful EBFM strategy that eliminates overfishing and overfished status on key species and considered the multispecies nature on fisheries
 
-> LPXX. Develop a robust sampling program to obtain monthly price/lb data by species and island, and expenditure data per trip by fleet
+> LP35. Develop a robust sampling program to obtain monthly price/lb data by species and island, and expenditure data per trip by fleet
 >
 > LP22. Complete the Caribbean Ecosystem Status Report
 >

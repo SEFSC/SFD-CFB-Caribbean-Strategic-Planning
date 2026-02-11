@@ -86,7 +86,15 @@ The in-person workshop, which occurred May 22-25, 2023 in Carolina, Puerto Rico,
 
 *Deliverables*
 
-> Project in progress. Check back for deliverables
+> [FI Data Needs](assets/CSP_FI_DataNeeds_2025.pdf){:target="_blank"}
+>
+> [FI Data Inventory](https://docs.google.com/spreadsheets/d/1fxU07rJpQ191ztGQB_cew798jg3GzhtTLNzsDMQLx1M/edit?gid=0#gid=0){:target="_blank"} (request view access to download)
+>
+> [Reef Fish Summary Table](https://docs.google.com/spreadsheets/d/1p70I_ywxsQMgT6gcNmjI1Q9yAwjCzLEXHVxCOA70d3I/edit?gid=0#gid=0){:target="_blank"} (request view access to download)
+>
+> [Queen Conch Summary Table](https://docs.google.com/spreadsheets/d/1yCyI5C3bTGFoaoIcIx1j7dyIfgYwgojUnju5LZ80oGk/edit?gid=0#gid=0){:target="_blank"} (request view access to download)
+>
+> [Spiny Lobster Summary Table](https://docs.google.com/spreadsheets/d/1mvj1zoWgJBdXLDsenL1R7IJP_fvFcJ15F_NXnksbJuc/edit?gid=0#gid=0){:target="_blank"} (request view access to download)
 
 <br>
 
