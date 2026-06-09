@@ -136,7 +136,7 @@ The in-person workshop, which occurred May 22-25, 2023 in Carolina, Puerto Rico,
 >
 > [Socioeconomic Inventory](assets/CSP_Socioeconomic_Inventory.xlsx){:target="_blank"}
 >
-> [SSRG Inventory](assets/CSP_CSP_SSRG_Inventory.xlsx){:target="_blank"}
+> [SSRG Inventory](assets/CSP_SSRG_Inventory.xlsx){:target="_blank"}
 
 <br>
 
