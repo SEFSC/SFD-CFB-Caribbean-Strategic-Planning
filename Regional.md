@@ -123,6 +123,8 @@ The in-person workshop, which occurred May 22-25, 2023 in Carolina, Puerto Rico,
 *Deliverables*
 
 > Project in progress. Check back for deliverables
+> 
+> [Environmental Data Inventory](assets/CSP_Environmental_Inventory.xlsx){:target="_blank"}
 
 <br>
 
