@@ -109,6 +109,8 @@ The in-person workshop, which occurred May 22-25, 2023 in Carolina, Puerto Rico,
 *Deliverables*
 
 > Project in progress. Check back for deliverables
+> 
+> [Life History Data Inventory](assets/CSP_LifeHistory_Inventory.xlsx){:target="_blank"}
 
 <br>
 
