@@ -60,7 +60,7 @@ The in-person workshop, which occurred May 22-25, 2023 in Carolina, Puerto Rico,
 
 *Deliverables*
 
-> Project in progress. Check back for deliverables
+> [Toolbox Recommendations](assets/CSP_Toolbox_Recommendations_2026.pdf){:target="_blank"}
 
 <br>
 
@@ -108,7 +108,7 @@ The in-person workshop, which occurred May 22-25, 2023 in Carolina, Puerto Rico,
 
 *Deliverables*
 
-> Project in progress. Check back for deliverables
+> [Life History Recommendations](assets/CSP_LifeHistory_Recommendations_2026.pdf){:target="_blank"}
 > 
 > [Life History Data Inventory](assets/CSP_LifeHistory_Inventory.xlsx){:target="_blank"}
 
@@ -122,7 +122,7 @@ The in-person workshop, which occurred May 22-25, 2023 in Carolina, Puerto Rico,
 
 *Deliverables*
 
-> Project in progress. Check back for deliverables
+> [Environmental Recommendations](assets/CSP_Environmental_Recommendations_2026.pdf){:target="_blank"}
 > 
 > [Environmental Data Inventory](assets/CSP_Environmental_Inventory.xlsx){:target="_blank"}
 
@@ -192,7 +192,7 @@ Project has not yet started. Check back for updates.
 
 *Deliverables*
 
-> Project in progress. Check back for deliverables
+> [Funding Governance Recommendations](assets/CSP_FundingGovernance_Recommendations_2026.pdf){:target="_blank"}
 
 <br>
 
